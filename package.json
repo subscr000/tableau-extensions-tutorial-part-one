@@ -4,7 +4,7 @@
   "description": "My first Tableau Extension tutorial",
   "main": "index.js",
   "repository": "https://github.com/subscr000/tableau-extensions-tutorial-part-one",
-  "author": "Yurii",
+  "author": "John Doe",
   "license": "MIT",
   "private": true,
   "dependencies": {
