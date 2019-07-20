@@ -1,0 +1,14 @@
+{
+  "name": "tableau-extensions-tutorial-part-one",
+  "version": "1.0.0",
+  "description": "My first Tableau Extension tutorial",
+  "main": "index.js",
+  "repository": "https://github.com/subscr000/tableau-extensions-tutorial-part-one",
+  "author": "Yurii",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.4.1"
+  }
+}
